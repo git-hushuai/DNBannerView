@@ -24,4 +24,5 @@
 
 ```
 
-[](https://github.com/git-hushuai/DNBannerView/blob/master/QQ20180813-133626-HD.mp4)
+![](https://github.com/git-hushuai/DNBannerView/blob/master/2018-08-13%2014_54_19.gif)
+![](https://github.com/git-hushuai/DNBannerView/blob/master/2018-08-13%2014_54_19.gif)
