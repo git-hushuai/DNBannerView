@@ -25,4 +25,4 @@
 ```
 
 ![](https://github.com/git-hushuai/DNBannerView/blob/master/2018-08-13%2014_54_19.gif)
-![](https://github.com/git-hushuai/DNBannerView/blob/master/2018-08-13%2014_54_19.gif)
+![](https://github.com/git-hushuai/DNBannerView/blob/master/2018-08-13%2014_55_56.gif)
