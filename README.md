@@ -23,3 +23,5 @@
 @property (nonatomic, strong) NSArray *imageArray;
 
 ```
+
+![](https://github.com/git-hushuai/DNBannerView/blob/master/QQ20180813-133626-HD.mp4)
